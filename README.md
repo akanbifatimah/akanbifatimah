@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akanbifatimah
+- 👋 Hi, I’m Fatimah.
 - 👀 I’m interested in WebDevelopment,blockchain Technologies, open SOurce Projects
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source Projects
