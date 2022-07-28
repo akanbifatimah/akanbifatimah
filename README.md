@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akanbifatimah
-- 👀 I’m interested in WebDevelopment
+- 👀 I’m interested in WebDevelopment,blockchain Technologies, open SOurce Projects
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source Projects
 - 📫 How to reach me akanbifatimah@gmail.com
