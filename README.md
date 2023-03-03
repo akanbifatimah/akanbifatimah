@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatimah.
-- 👀 I’m interested in WebDevelopment,blockchain Technologies, open SOurce Projects
-- 🌱 I’m currently learning React
+- 👀 I’m interested in WebDevelopment,blockchain Technology,Artificial Intelligence and open Source Projects
+- 🌱 I’m currently learning Mobile App Development.
 - 💞️ I’m looking to collaborate on open source Projects
 - 📫 How to reach me akanbifatimah@gmail.com
 
